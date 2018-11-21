@@ -49,4 +49,4 @@ Abrimos el emulador de android studio y después ejecutamos el siguiente comando
 ```react-native run-android```
 
 Debera salirnos como la siguiente imagen
-![alt text](Imagen/helloWorld.png)
+![alt text](https://cdn-images-1.medium.com/max/1600/0*YczCUc-cdJpnJd_b.png)
